@@ -4,6 +4,9 @@
 
 Hi, I am Elsa! I'm a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, automation, and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="100">
+</div>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 </div>
 
